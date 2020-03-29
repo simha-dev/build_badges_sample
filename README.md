@@ -1,5 +1,5 @@
-# sample_pytest_project
+# Build Badge Sample Project
 
 
-
-![Build Status](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWnBSMFkyN3FUZUlRaS81QWNzdHRZdGhGQnZlUUR1S2Q5T1MxblBzaEhlRzZ3K1BMeXNuaWk5N1JuRUxYeStHcXN4NkdpM0FXVVVBOWR5K2xBSWVpVFRFPSIsIml2UGFyYW1ldGVyU3BlYyI6IjMzckVTM29Sbk9veFViUEsiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+Master Branch: 
+![Build Status](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiMmxLU2hDRFdxUTgraC96OHhDd2dDUitXRG9WU2I0SVVMS2kzNzNlQk83dGNYZ2R3T0pBWWlMZlNJZHV6TlFPNHhpM3FEK3ptV3pOam5SMlFvbllIeUNBPSIsIml2UGFyYW1ldGVyU3BlYyI6Ilk0alc5Y1hONENyQmNMd0wiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
