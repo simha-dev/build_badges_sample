@@ -1,0 +1,5 @@
+# sample_pytest_project
+
+
+
+![Build Status](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWnBSMFkyN3FUZUlRaS81QWNzdHRZdGhGQnZlUUR1S2Q5T1MxblBzaEhlRzZ3K1BMeXNuaWk5N1JuRUxYeStHcXN4NkdpM0FXVVVBOWR5K2xBSWVpVFRFPSIsIml2UGFyYW1ldGVyU3BlYyI6IjMzckVTM29Sbk9veFViUEsiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)

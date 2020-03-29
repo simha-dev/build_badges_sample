@@ -1,0 +1,29 @@
+
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.7
+    commands:
+      - pip3 install pytest
+
+  pre_build:
+    commands:
+      - echo 'Inside Python Source Directory'
+  build:
+    commands:
+      - echo 'Compiling the Python Code'
+      - python -m pytest --junitxml=reports/report.xml
+  post_build:
+    commands:
+      - echo "Would deploy here"
+
+reports:
+  calc_unit_tests:
+    files:
+      - 'reports/report.xml'
+
+artifacts:
+  files:
+    - 'example/calculator_functions.py'
