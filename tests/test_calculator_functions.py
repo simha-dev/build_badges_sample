@@ -5,8 +5,7 @@ from example.calculator_functions import *
                     [(10,7,17),
                     (9,4,13),
                     (-100,76,-24),
-                    (0,0,0),
-                    (10,24,20)
+                    (0,0,0)
                     ])
 
 def test_add(num1,num2,expected_result):
