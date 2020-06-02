@@ -27,4 +27,6 @@ reports:
 artifacts:
   files:
     - 'example/calculator_functions.py'
-  name: build-badge-sample-$(date +%Y-%m-%d-%H-%M-%S) 
+    - 'reports/report.xml'
+
+  name: build-badge-sample-$(date +%Y-%m-%d-%H-%M-%S)
