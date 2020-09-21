@@ -41,6 +41,8 @@ def test_multiply(num1,num2,expected_result):
     assert(result==expected_result)
 
 
+def test_should_fail():
+    assert(100 == 500)
 
 @pytest.mark.parametrize('num1, num2, expected_result',
                     [(9,3,3),
